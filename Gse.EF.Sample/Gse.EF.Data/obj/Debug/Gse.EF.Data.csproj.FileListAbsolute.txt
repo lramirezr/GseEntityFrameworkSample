@@ -1,0 +1,13 @@
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\bin\Debug\Gse.EF.Data.dll.config
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\bin\Debug\Gse.EF.Data.dll
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\bin\Debug\Gse.EF.Data.pdb
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\bin\Debug\EntityFramework.dll
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\bin\Debug\EntityFramework.xml
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\obj\Debug\Gse.EF.Data.csprojResolveAssemblyReference.cache
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\obj\Debug\Gse.EF.Data.dll
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\obj\Debug\Gse.EF.Data.pdb
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\obj\Debug\Gse.EF.Data.Migrations.InitialCreate.resources
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\obj\Debug\Gse.EF.Data.csproj.GenerateResource.Cache
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Data\obj\Debug\Gse.EF.Data.Migrations.Initial.resources
