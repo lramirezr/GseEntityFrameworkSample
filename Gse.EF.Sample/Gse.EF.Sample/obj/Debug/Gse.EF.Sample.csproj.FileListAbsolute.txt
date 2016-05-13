@@ -2,12 +2,12 @@ c:\users\luis\documents\visual studio 2015\Projects\Gse.EF.Sample\Gse.EF.Sample\
 C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\bin\Debug\Gse.EF.Sample.exe.config
 C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\bin\Debug\Gse.EF.Sample.exe
 C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\bin\Debug\Gse.EF.Sample.pdb
-C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\obj\Debug\Gse.EF.Sample.csprojResolveAssemblyReference.cache
-C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\obj\Debug\Gse.EF.Sample.exe
-C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\obj\Debug\Gse.EF.Sample.pdb
 C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\bin\Debug\EntityFramework.dll
 C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\bin\Debug\Gse.EF.Data.dll
 C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\bin\Debug\Gse.EF.Data.pdb
 C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\bin\Debug\EntityFramework.xml
 C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\obj\Debug\Gse.EF.Sample.csprojResolveAssemblyReference.cache
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\obj\Debug\Gse.EF.Sample.exe
+C:\Users\luis\Documents\GitHub\GseEntityFrameworkSample\Gse.EF.Sample\Gse.EF.Sample\obj\Debug\Gse.EF.Sample.pdb

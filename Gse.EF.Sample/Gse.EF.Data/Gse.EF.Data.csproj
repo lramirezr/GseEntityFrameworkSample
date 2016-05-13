@@ -49,7 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Entidad.cs" />
     <Compile Include="Empresa.cs" />
     <Compile Include="GseDbContext.cs" />
     <Compile Include="Migrations\201605130645163_InitialCreate.cs" />

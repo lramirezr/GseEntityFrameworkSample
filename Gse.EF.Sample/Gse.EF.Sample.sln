@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gse.EF.Sample", "Gse.EF.Sample\Gse.EF.Sample.csproj", "{52A2DEEC-9B64-44C0-BAF7-A338A54E868E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A374F5F1-2135-4648-9821-18A9CE61C54E} = {A374F5F1-2135-4648-9821-18A9CE61C54E}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gse.EF.Data", "Gse.EF.Data\Gse.EF.Data.csproj", "{A374F5F1-2135-4648-9821-18A9CE61C54E}"
 EndProject

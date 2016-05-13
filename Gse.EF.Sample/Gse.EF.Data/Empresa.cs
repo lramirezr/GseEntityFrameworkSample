@@ -11,5 +11,9 @@ namespace Gse.EF.Data
     {
         public decimal Id { get; set; }
         public string Cif { get; set; }
+        public string Tipo { get; set; }
+        public decimal? EntidadId { get; set; }
+        // [ForeignKey("EntidadId")]
+        public virtual Entidad Entidad { get; set; }
     }
 }
